@@ -1,0 +1,58 @@
+[
+  {
+    "id": "note-1",
+    "book_id": "book-1",
+    "book_title": "Atomic Habits",
+    "type": "quote",
+    "page_number": 27,
+    "content": "You do not rise to the level of your goals. You fall to the level of your systems.",
+    "tags": ["systems", "goals", "habits"],
+    "created_at": "2026-10-19T15:20:00Z",
+    "updated_at": "2026-10-19T15:20:00Z"
+  },
+  {
+    "id": "note-2",
+    "book_id": "book-1",
+    "book_title": "Atomic Habits",
+    "type": "note",
+    "page_number": 89,
+    "content": "Habit stacking formula: After [CURRENT HABIT], I will [NEW HABIT]. Example: After I pour my morning coffee, I will read for 10 minutes.",
+    "tags": ["practical", "technique"],
+    "created_at": "2026-10-24T08:45:00Z",
+    "updated_at": "2026-10-24T08:45:00Z"
+  },
+  {
+    "id": "note-3",
+    "book_id": "book-2",
+    "book_title": "Project Hail Mary",
+    "type": "quote",
+    "page_number": 142,
+    "content": "Human beings have a remarkable ability to accept the abnormal and make it normal.",
+    "tags": ["humanity", "psychology", "sci-fi"],
+    "created_at": "2026-10-26T21:10:00Z",
+    "updated_at": "2026-10-26T21:10:00Z"
+  },
+  {
+    "id": "note-4",
+    "book_id": "book-3",
+    "book_title": "Deep Work",
+    "type": "note",
+    "page_number": 64,
+    "content": "The Deep Work Hypothesis: The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable in our economy.",
+    "tags": ["focus", "career"],
+    "created_at": "2026-09-12T19:00:00Z",
+    "updated_at": "2026-09-12T19:00:00Z"
+  },
+  {
+    "id": "note-5",
+    "book_id": "book-4",
+    "book_title": "Klara and the Sun",
+    "type": "quote",
+    "page_number": 288,
+    "content": "Do you believe in the human heart? I don't mean simply the organ, obviously. Do you think there is something that makes each of us special and individual?",
+    "tags": ["empathy", "philosophy", "ai"],
+    "created_at": "2026-10-08T22:15:00Z",
+    "updated_at": "2026-10-08T22:15:00Z"
+  }
+]
+

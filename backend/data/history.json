@@ -1,0 +1,73 @@
+[
+  {
+    "id": "hist-1",
+    "book_id": "book-1",
+    "book_title": "Atomic Habits",
+    "previous_page": 0,
+    "new_page": 45,
+    "pages_read": 45,
+    "timestamp": "2026-10-18T16:00:00Z",
+    "note": "Started Chapter 1: The Surprising Power of Atomic Habits"
+  },
+  {
+    "id": "hist-2",
+    "book_id": "book-1",
+    "book_title": "Atomic Habits",
+    "previous_page": 45,
+    "new_page": 110,
+    "pages_read": 65,
+    "timestamp": "2026-10-21T18:30:00Z",
+    "note": "Read about habit cues and cue redesign"
+  },
+  {
+    "id": "hist-3",
+    "book_id": "book-2",
+    "book_title": "Project Hail Mary",
+    "previous_page": 0,
+    "new_page": 75,
+    "pages_read": 75,
+    "timestamp": "2026-10-22T21:00:00Z",
+    "note": "Ryland waking up with amnesia in space"
+  },
+  {
+    "id": "hist-4",
+    "book_id": "book-1",
+    "book_title": "Atomic Habits",
+    "previous_page": 110,
+    "new_page": 160,
+    "pages_read": 50,
+    "timestamp": "2026-10-25T14:15:00Z",
+    "note": "Making habits attractive and easy"
+  },
+  {
+    "id": "hist-5",
+    "book_id": "book-2",
+    "book_title": "Project Hail Mary",
+    "previous_page": 75,
+    "new_page": 160,
+    "pages_read": 85,
+    "timestamp": "2026-10-28T22:30:00Z",
+    "note": "Meeting Rocky!"
+  },
+  {
+    "id": "hist-6",
+    "book_id": "book-1",
+    "book_title": "Atomic Habits",
+    "previous_page": 160,
+    "new_page": 195,
+    "pages_read": 35,
+    "timestamp": "2026-11-01T10:45:00Z",
+    "note": "The Two-Minute Rule and habit shaping"
+  },
+  {
+    "id": "hist-7",
+    "book_id": "book-2",
+    "book_title": "Project Hail Mary",
+    "previous_page": 160,
+    "new_page": 210,
+    "pages_read": 50,
+    "timestamp": "2026-11-02T19:20:00Z",
+    "note": "Scientific experiments in xenobiology"
+  }
+]
+
